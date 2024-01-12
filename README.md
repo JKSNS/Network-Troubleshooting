@@ -1,17 +1,20 @@
 ![Lab Instructions PDF:](images/Lab9-instructions.pdf)
 <br>
 
-<br>
+
 OSPF Verification: 
+<br>
 ![OSPF Verification](images/OSPF.png)
 <br>
 
-<br>
+
 Ping Test:
+<br>
 ![Ping Test](images/Pings.png)
 <br>
 
-<br>
+
 Network Topology: 
+<br>
 ![Network Topology](images/Topology.png)
 <br>
