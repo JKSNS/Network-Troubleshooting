@@ -8,7 +8,7 @@ OSPF Verification:
 <br>
 
 
-Ping Test:
+Ping Tests:
 <br>
 ![Ping Test](images/Pings.png)
 <br>
